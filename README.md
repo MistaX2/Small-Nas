@@ -35,3 +35,6 @@ Easily upload, download, manage and share files through a beautiful web interfac
 
 ```bash
 gitclone https://github.com/MistaX2/Small-Nas.git
+
+chmod +x nas_setup.sh
+sudo bash nas_setup.sh
