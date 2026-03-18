@@ -34,4 +34,4 @@ Easily upload, download, manage and share files through a beautiful web interfac
 ### 1️⃣ Download setup script
 
 ```bash
-wget https://your-repo-link/nas_setup.sh
+https://github.com/MistaX2/Small-Nas.git
