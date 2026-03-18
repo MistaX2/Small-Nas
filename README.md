@@ -34,4 +34,4 @@ Easily upload, download, manage and share files through a beautiful web interfac
 ### 1️⃣ Download setup script
 
 ```bash
-https://github.com/MistaX2/Small-Nas.git
+gitclone https://github.com/MistaX2/Small-Nas.git
