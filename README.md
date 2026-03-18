@@ -41,3 +41,15 @@ gitclone https://github.com/MistaX2/Small-Nas.git
 
 chmod +x nas_setup.sh
 sudo bash nas_setup.sh
+
+Check status:
+
+systemctl status nas
+
+Restart:
+
+systemctl restart nas
+
+Stop:
+
+systemctl stop nas
