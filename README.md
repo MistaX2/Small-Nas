@@ -16,6 +16,8 @@ Easily upload, download, manage and share files through a beautiful web interfac
 - ⚡ Lightweight & Fast
 - 🌐 Accessible via Browser
 
+
+you can Folder path chang ✅
 ---
 
 ## 🖥️ Server Details
@@ -25,11 +27,12 @@ Easily upload, download, manage and share files through a beautiful web interfac
 | NAS Root | `/var/www/html` |
 | Database | `/opt/nas/filebrowser.db` |
 | Service Name | `nas` |
-| Port | `8080` |
+| Port | `8880` |
 
 ---
 
 ## 📦 Installation (Ubuntu / Debian VPS)
+## 📦 Install Nginx (Recomend)
 
 ### 1️⃣ Download setup script
 
